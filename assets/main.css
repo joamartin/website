@@ -1,0 +1,69 @@
+
+html {
+  overflow-y: auto;
+  background: #212424;
+}
+
+body {
+  color: #e1e1e1;
+  padding: 0;
+  -webkit-font-feature-settings: "liga" 0;
+  font-feature-settings: "liga" 0;
+  line-height: 1.7;
+  font-family: IBM Plex Mono,Space Grotesk,Roboto Slab,sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+.container {
+  max-width: 1152px;
+  z-index: 10000;
+}
+
+.main-content {
+  margin-top: 20px;
+}
+
+.image-profile {
+  margin: auto;
+}
+
+.networks {
+  padding: 16px;
+  text-align: center;
+}
+
+.networks a {
+  color: #e1e1e1;
+}
+
+p {
+  margin-top: 16px;
+  text-align: justify;
+}
+
+hr {
+  height: 1px;
+}
+
+strong {
+  color: #e1e1e1;
+}
+
+a {
+  color: #41c7c7;
+}
+
+a:hover {
+  color: #41c7c7;
+  text-decoration: underline;
+}
+
+#map {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  opacity: 0.15
+}

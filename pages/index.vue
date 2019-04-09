@@ -33,11 +33,14 @@
             </p>
             <hr>
             <div class="networks">
-              <a href="mailto:jmartin@jmartin.io">
+              <a href="mailto:jmartin@jmartin.io" title="contact">
                 <b-icon icon="email" />
               </a>
-              <a href="http://linkedin.com/in/joaquim-martin-336102b5" target="_blank">
+              <a href="http://linkedin.com/in/joaquim-martin-336102b5" title="LinkedIn" target="_blank">
                 <b-icon icon="linkedin-box" />
+              </a>
+              <a href="https://gitlab.com/jmart" target="_blank">
+                <b-icon icon="gitlab" pack="fab" title="gitlab" />
               </a>
             </div>
           </div>
